@@ -599,7 +599,7 @@ SOFTWARE.
 
 **Nahuel Hernan Ramos**
 
-**Email: nahuelutn88@gmail.com**
+**Personal email: nahuelutn88@gmail.com**
 
 **Laboratory Technician**
 
