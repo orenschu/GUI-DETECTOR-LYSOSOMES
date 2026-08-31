@@ -598,7 +598,8 @@ SOFTWARE.
 # Author
 
 **Nahuel Hernan Ramos**
-*Email: nahuelutn88@gmail.com*
+
+**Email: nahuelutn88@gmail.com**
 
 **Laboratory Technician**
 
